@@ -2,7 +2,7 @@
 
 # Hey, I'm Patrick 👋
 
-**`Electrical & Computer Engineering @ FAMU-FSU College of Engineering`**
+**`Computer Science @ FSU | Electrical Engineering @ FAMU-FSU College of Engineering`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9E5A&center=true&vCenter=true&width=500&lines=Embedded+Systems+%26+Hardware+Design;Computer+Vision+%26+Deep+Learning;FPGA+%7C+Verilog+%7C+SoC+Design;Building+things+that+move+%26+think)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-I'm a senior ECE student who lives at the intersection of hardware and software. I design digital circuits in Verilog, build embedded systems on Raspberry Pis, and train neural networks — sometimes all in the same week. Currently wrapping up my senior design project and looking to break into the industry.
+I'm a senior dual-degree student (CS + EE) who lives at the intersection of hardware and software. I design digital circuits in Verilog, build embedded systems on Raspberry Pis, and train neural networks — sometimes all in the same week. Currently wrapping up my senior design project and looking to break into the industry.
 
 - 🔭 Working on **Grappler Camera System** — an AI-powered multi-camera tracking system for combat sports using YOLO pose estimation
 - 🏗️ Building a **Radix-4 Booth Multiplier** on Zynq UltraScale+ FPGA for SoC Design
@@ -86,8 +86,13 @@ High-performance signed multiplier implemented in Verilog targeting Zynq UltraSc
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=peejerator&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peejerator&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
+<!-- Option A: Uses github-readme-stats-fast (active fork) — works out of the box -->
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=peejerator&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=peejerator&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
+
+<!-- Option B: If Option A ever goes down too, self-host by forking
+     https://github.com/anuraghazra/github-readme-stats and deploying to Vercel,
+     then replace the domain above with YOUR-APP.vercel.app -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=peejerator&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
@@ -97,8 +102,8 @@ High-performance signed multiplier implemented in Verilog targeting Zynq UltraSc
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-canady/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrick.canady@ifoundry.com)
 
 ---
 
