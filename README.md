@@ -14,7 +14,7 @@
 
 I'm a senior dual-degree student (CS + EE) who lives at the intersection of hardware and software. I design digital circuits in Verilog, build embedded systems on Raspberry Pis, and train neural networks — sometimes all in the same week. Currently wrapping up my senior design project and looking to break into the industry.
 
-- 🔭 Working on **Grappler Camera System** — an AI-powered multi-camera tracking system for combat sports using YOLO pose estimation
+- 🔭 Working on **[Grappler Camera System](https://github.com/peejerator/grappler-camera)** — an AI-powered multi-camera tracking system for combat sports using YOLO pose estimation
 - 🏗️ Building a **Radix-4 Booth Multiplier** on Zynq UltraScale+ FPGA for SoC Design
 - 🎓 Teaching Assistant for **COP 3014** (Intro to C++ Programming)
 - 📍 Tallahassee, FL
@@ -28,6 +28,7 @@ I'm a senior dual-degree student (CS + EE) who lives at the intersection of hard
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-543978?style=for-the-badge&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,6 +53,7 @@ I'm a senior dual-degree student (CS + EE) who lives at the intersection of hard
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -61,9 +63,9 @@ I'm a senior dual-degree student (CS + EE) who lives at the intersection of hard
 <tr>
 <td width="50%">
 
-**🎥 Grappler Camera System** *(Senior Design)*
+**🎥 [Grappler Camera System](https://github.com/peejerator/grappler-camera)** *(Senior Design)*
 <br>
-Autonomous multi-camera tracking for MMA/BJJ using 3 Raspberry Pi 5s, YOLO11n-pose inference, PCA9685 servo control, and a real-time web dashboard. Distributed WebSocket architecture with mDNS discovery.
+Distributed AI-powered multi-camera tracking for MMA/BJJ using Raspberry Pi 5s, YOLO11n-pose inference, PCA9685 servo control, and a real-time web dashboard. WebSocket architecture with mDNS auto-discovery.
 
 `Python` `YOLO` `Socket.IO` `Raspberry Pi` `Flask`
 
@@ -78,6 +80,26 @@ High-performance signed multiplier implemented in Verilog targeting Zynq UltraSc
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**♠️ [Android Blackjack](https://github.com/peejerator/android-blackjack)** *(Mobile Programming)*
+<br>
+Native Android Blackjack game with card visuals, chip-based betting ($50/$100/$500), dealer AI, Double Down, and a persistent top-10 leaderboard backed by Room database.
+
+`Java` `Android` `Room` `Gradle`
+
+</td>
+<td width="50%">
+
+**📐 [Elliptic Curve Visualizer](https://github.com/peejerator/elliptic-curve-visualizer)** *(Cryptography)*
+<br>
+Interactive CLI tool for elliptic curve point addition with input validation, singularity checks, point doubling support, and Matplotlib visualization of curves and results.
+
+`Python` `NumPy` `Matplotlib`
+
+</td>
+</tr>
 </table>
 
 ---
@@ -86,13 +108,8 @@ High-performance signed multiplier implemented in Verilog targeting Zynq UltraSc
 
 <div align="center">
 
-<!-- Option A: Uses github-readme-stats-fast (active fork) — works out of the box -->
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=peejerator&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=peejerator&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
-
-<!-- Option B: If Option A ever goes down too, self-host by forking
-     https://github.com/anuraghazra/github-readme-stats and deploying to Vercel,
-     then replace the domain above with YOUR-APP.vercel.app -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=peejerator&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
