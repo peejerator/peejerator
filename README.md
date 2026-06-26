@@ -64,7 +64,7 @@ I'm a dual-degree CS + EE grad who lives at the intersection of hardware and sof
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🎥 [Grappler Camera System](https://github.com/peejerator/grappler-camera)** *(Senior Design — Hardware Lead)*
 
@@ -73,7 +73,7 @@ Distributed AI-powered multi-camera tracking for MMA/BJJ using Raspberry Pi 5 no
 `Python` `YOLO` `Socket.IO` `Raspberry Pi 5` `Flask`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **⚡ [Power-Aware Systolic MAC Array](https://github.com/peejerator/systolic-mac-array)** *(SoC Design)*
 
@@ -84,20 +84,20 @@ Fully synthesizable 3×3 output-stationary systolic MAC array in Verilog with wa
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🛠️ C++ Autograding Framework** *(In production use)*
 
-Modular autograding engine with compiler diagnostics, libclang AST static analysis, automated program I/O testing, LLM-assisted review (Ollama/qwen3:14b), and a batch interactive grading interface with back-navigation and undo. Cut per-assignment scripting from 800+ lines to ~150-line rubric files.
+Modular autograding engine with compiler diagnostics, libclang AST static analysis, automated I/O testing, and LLM-assisted review (Ollama/qwen3:14b). A batch interactive interface adds back-navigation and undo — collapsing 800+ lines of per-assignment scripting down to ~150-line rubric files.
 
 `Python` `libclang` `Ollama` `AST Analysis`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **♠️ [Android Blackjack](https://github.com/peejerator/android-blackjack)** *(Mobile Programming)*
 
-Native Android Blackjack game with card visuals, chip-based betting ($50/$100/$500), dealer AI, Double Down, and a persistent top-10 leaderboard backed by Room database.
+Native Android Blackjack game with card visuals, chip-based betting ($50/$100/$500), dealer AI, Double Down, Split, and a persistent top-10 leaderboard backed by a Room database with full lifecycle-aware ViewModel architecture.
 
 `Java` `Android` `Room` `Gradle`
 
@@ -122,9 +122,9 @@ Native Android Blackjack game with card visuals, chip-based betting ($50/$100/$5
 
 ### 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-peejerator.github.io-F0A93A?style=for-the-badge&logoColor=white)](https://peejerator.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-canady/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrick.canady@ifoundry.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-peejerator.github.io-F0A93A?style=for-the-badge&logo=githubpages&logoColor=white)](https://peejerator.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-patrick--canady-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-canady/)
+[![Email](https://img.shields.io/badge/Email-patrick.canady%40ifoundry.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrick.canady@ifoundry.com)
 
 ---
 
